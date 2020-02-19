@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="546d050b-c2ba-48f6-96a3-44047a7e960e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XzFH1CRdvjFVB1trCQCvP3yMYS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Exercice4">
+    <configuration name="Exercice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sqli.java.ennonce.Exercice2" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqli.java.ennonce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sqli.java.ennonce.Exercice3" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqli.java.ennonce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sqli.java.ennonce.Exercice4" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqli.java.ennonce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sqli.java.ennonce.Exercice5" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqli.java.ennonce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercice6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sqli.java.ennonce.Exercice6" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqli.java.ennonce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercice4" />
+        <item itemvalue="Application.Exercice6" />
+        <item itemvalue="Application.Exercice5" />
+        <item itemvalue="Application.Exercice3" />
+        <item itemvalue="Application.Exercice2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="546d050b-c2ba-48f6-96a3-44047a7e960e" name="Default Changelist" comment="" />
+      <created>1582040924770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582040924770</updated>
+      <workItem from="1582040928180" duration="6870000" />
+      <workItem from="1582096957134" duration="1152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582040949759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582040949759" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582047818578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582047818578" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582047818578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582047818578" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582047818578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582047818578" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582047818578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582047818578" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582096957844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582096957844" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582043317076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582043317076" />
+  </component>
+</project>
