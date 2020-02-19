@@ -24,7 +24,7 @@ public class LambdaExercices {
      * @param operation {@link Operation}
      * @return String
      */
-    private String transformer(String a, String b, Operation<String> operation) {
+    private static String transformer(String a, String b, Operation<String> operation) {
         return operation.performOperation(a, b);
     }
 
@@ -36,7 +36,7 @@ public class LambdaExercices {
      * @param b int
      * @return int
      */
-    public int multiplication(int a, int b) {
+    public static int multiplication(int a, int b) {
         return faireCalcul(a, b, (x, y) ->x*y);
     }
 
@@ -48,7 +48,7 @@ public class LambdaExercices {
      * @param b int
      * @return int
      */
-    public int addition(int a, int b) {
+    public static int addition(int a, int b) {
         return faireCalcul(a, b, (x, y) ->x+y );
     }
 
@@ -72,14 +72,16 @@ public class LambdaExercices {
      * @param b String
      * @return String
      */
-    public String concatener(String a, String b) {
+    public static String concatener(String a, String b) {
         return transformer(a, b, (x, y) ->x+y);
     }
 
 
 
     public static void main(String  [] args){
-       // Operation operation=(x,y)->;
+        System.out.println(soustraction(1,8));
+        System.out.println(addition(1,9));
+        System.out.println(concatener("Hello"," World"));
     }
 }
 
